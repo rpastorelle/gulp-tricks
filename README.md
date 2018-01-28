@@ -2,7 +2,7 @@
 
 - ### `gulp`
 - ### `gulp js` - browserify js apps
-- ### `gulp commmon` - browserify common js apps
+- ### `gulp common` - browserify common js apps
 - ### `gulp watch` - rebuild on change
 
 ---
