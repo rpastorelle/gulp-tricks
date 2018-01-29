@@ -1,8 +1,9 @@
 # Gulp Tricks
 
 - ### `gulp`
+- ### `gulp build` - build public/js assets
 - ### `gulp js` - browserify js apps
-- ### `gulp common` - browserify common js apps
+- ### `gulp commonjs` - browserify common js apps
 - ### `gulp watch` - rebuild on change
 
 ---
