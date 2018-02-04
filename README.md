@@ -17,3 +17,10 @@
     - Look for console output
 - Open: /public/fancy.html
   - Loads fancy.app
+
+---
+
+## Further Reading
+
+- Gulp Starter FAQ — https://www.viget.com/articles/gulp-browserify-starter-faq/
+- Gulp multiiple bundles — https://fettblog.eu/gulp-browserify-multiple-bundles/
